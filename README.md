@@ -21,26 +21,6 @@ El conjunto de datos de propiedades de Melbourne ofrece una visión detallada de
 
 Estos datos han sido recopilados meticulosamente para proporcionar una base sólida para el análisis de tendencias, patrones y factores que influyen en las ventas de propiedades en Melbourne.
 
-## Audiencia
-
-### Analistas de Datos y Científicos de Datos
-
-- **Intereses**: Exploración y análisis de tendencias del mercado inmobiliario de Melbourne.
-- **Técnicas**: Utilización de técnicas estadísticas y de aprendizaje automático.
-- **Objetivo**: Extraer información significativa y tomar decisiones informadas.
-
-### Investigadores Académicos
-
-- **Intereses**: Estudio del mercado inmobiliario de Melbourne.
-- **Campos**: Economía, urbanismo, sociología, entre otros.
-- **Objetivo**: Utilizar el conjunto de datos como parte de su investigación académica.
-
-### Profesionales del Sector Inmobiliario
-
-- **Intereses**: Comprensión del mercado y tendencias de ventas en Melbourne.
-- **Decisiones**: Fijación de precios, estrategias de comercialización y pronósticos.
-- **Objetivo**: Informar sus decisiones comerciales basadas en un análisis profundo de los datos.
-
 ## Contenido del Proyecto
 
 Este proyecto incluye varias fases y componentes, cada uno diseñado para proporcionar una visión completa y detallada del mercado inmobiliario de Melbourne:
